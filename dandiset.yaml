@@ -35,8 +35,8 @@ assetsSummary:
   - ElectrodeGroup
   - ElectricalSeries
 citation: Twedell, Emily (2026) Striatal lateral inhibition regulates abnormal movements
-  in a mouse model of levodopa-induced dyskinesia (Version draft) [Data set]. DANDI
-  Archive. https://dandiarchive.org/dandiset/002095/draft
+  in a mouse model of levodopa-induced dyskinesia (Version 0.261122.0221) [Data set].
+  DANDI Archive. https://doi.org/10.48324/dandi.002095/0.261122.0221
 contributor:
 - affiliation: []
   email: twedelle@gmail.com
@@ -73,6 +73,7 @@ contributor:
   name: National Institute of Neurological Disorders and Stroke
   schemaKey: Organization
 dateCreated: '2026-11-20T23:12:15.713109+00:00'
+datePublished: '2026-11-22T02:21:01.565113+00:00'
 description: In this project, we investigated the effects of local versus systemic
   chemogenetic suppression of dopamine D2 receptor-expressing medium spiny neurons
   (D2-MSNs) on neuronal activity in the globus pallidus pars externa (GPe). These
@@ -88,19 +89,32 @@ description: In this project, we investigated the effects of local versus system
   disinhibition of the GPe through suppression of D2-MSN projections. Following recordings,
   extracellular signals were spike sorted (Kilosort) to isolate single units, and
   neuronal firing rates were analyzed across experimental conditions
+doi: 10.48324/dandi.002095/0.261122.0221
 ethicsApproval: []
-id: DANDI:002095/draft
+id: DANDI:002095/0.261122.0221
 identifier: DANDI:002095
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/002095/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/002095/0.261122.0221/assets.yaml
 name: Striatal lateral inhibition regulates abnormal movements in a mouse model of
   levodopa-induced dyskinesia
+publishedBy:
+  endDate: '2026-11-22T02:21:01.565113+00:00'
+  id: urn:uuid:b30b5fd6-fb2b-40ce-ac73-73d5485df29a
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2026-11-22T02:21:01.565113+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:23b801f1-b57f-4b37-bbf1-40be745ef0b2
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.7.0
-url: https://dandiarchive.org/dandiset/002095/draft
-version: draft
+url: https://dandiarchive.org/dandiset/002095/0.261122.0221
+version: 0.261122.0221
 wasGeneratedBy: []
